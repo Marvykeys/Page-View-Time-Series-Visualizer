@@ -1,4 +1,4 @@
-# Page-View-Time-Series-Visualizer
+# Page-View-Time-Series-Visualizer :alarm_clock:
 
 As one of the final tasks at the end of the FREECODECAMP Python For Data Analysis Course,
 
